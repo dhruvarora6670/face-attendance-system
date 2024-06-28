@@ -78,5 +78,3 @@ Feel free to fork this repository, create a feature branch, and submit pull requ
 - Special thanks to the creators of the libraries used in this project.
 
 Feel free to connect if you have any questions or suggestions!
-
-![Real-Time Face Attendance System](https://share.icloud.com/photos/002G8eUjns7L14g4wVc1IQOaw)
