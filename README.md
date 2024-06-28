@@ -22,7 +22,7 @@ This project is a Real-Time Face Attendance System built using Python. It levera
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/face-attendance-system.git
+    git clone https://github.com/dhruvarora6670/face-attendance-system.git
     cd face-attendance-system
     ```
 
